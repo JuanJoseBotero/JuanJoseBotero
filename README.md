@@ -1,7 +1,7 @@
 <h1 align="center">Get to know me:</h1>
 
 - 👋 Hi, I’m <b>Juan José Botero</b>
-- 👀 I’m a Systems Engineer student at EAFIT university. Passionate for coding 💻 and aviation ✈️. I'm always looking for new challenges and experiences to be better day after day.
+- I’m a Systems Engineering student at EAFIT University. I enjoy coding, playing video games, and have a strong passion for sports. I’m always eager to learn new
 - 📫 Feel free to reach me out through my email: **juanjosebg2@gmail.com**
 
 <h3 align="center">My favorite languages:</h3>
