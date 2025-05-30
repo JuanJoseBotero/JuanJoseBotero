@@ -21,13 +21,17 @@
 <h3 align="center">I have worked with these resources:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,django,flask,git,aws,gcp,react,bootstrap,mysql,mongo" />
+    <img src="https://skillicons.dev/icons?i=html,css,django,flask,git,aws,gcp,react,bootstrap,mysql,mongo,docker,github,photoshop" />
   </a>
 </p>
 
 <h3 align="center">My stats</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanJoseBotero&show_icons=true&locale=en&theme=transparent" alt="JuanJoseBotero" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JuanJoseBotero&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </p>
 
 - 🎶 I love to listen music. This is what I'm currently listening.
