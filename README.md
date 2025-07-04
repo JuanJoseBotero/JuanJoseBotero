@@ -21,7 +21,7 @@
 <h3 align="center">I have worked with these resources:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,django,flask,git,aws,gcp,react,bootstrap,mysql,mongo,docker,github,photoshop" />
+    <img src="https://skillicons.dev/icons?i=html,css,django,flask,git,aws,gcp,react,bootstrap,mysql,mongo,docker,github,photoshop,tailwind" />
   </a>
 </p>
 
