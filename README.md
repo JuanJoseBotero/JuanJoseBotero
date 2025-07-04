@@ -7,14 +7,14 @@
 <h3 align="center">My favorite languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,js" />
   </a>
 </p>
 
 <h3 align="center">I have some knowledge in these languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,ts" />
   </a>
 </p>
 
